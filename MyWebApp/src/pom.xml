@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.dept.app</groupId>
-    <artifactId>automation</artifactId>
+    <artifactId>MyWebApp</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
     
-    <name>automation Maven Webapp</name>
+    <name>MyWebApp Maven Webapp</name>
     <url>http://maven.apache.org</url>
     
     <dependencies>
@@ -22,6 +22,6 @@
     </dependencies>
     
     <build>
-        <finalName>automation</finalName>
+        <finalName>MyWebApp</finalName>
     </build>
 </project>
